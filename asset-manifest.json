@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/test/static/css/main.073c9b0a.css",
-    "main.js": "/test/static/js/main.949086ad.js",
-    "static/js/787.8630b93d.chunk.js": "/test/static/js/787.8630b93d.chunk.js",
-    "service-worker.js": "/test/service-worker.js",
-    "static/media/logo.svg": "/test/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
-    "index.html": "/test/index.html",
-    "main.073c9b0a.css.map": "/test/static/css/main.073c9b0a.css.map",
-    "main.949086ad.js.map": "/test/static/js/main.949086ad.js.map",
-    "787.8630b93d.chunk.js.map": "/test/static/js/787.8630b93d.chunk.js.map"
+    "main.css": "/reactwebapp/static/css/main.073c9b0a.css",
+    "main.js": "/reactwebapp/static/js/main.b6d9552b.js",
+    "static/js/787.8630b93d.chunk.js": "/reactwebapp/static/js/787.8630b93d.chunk.js",
+    "service-worker.js": "/reactwebapp/service-worker.js",
+    "static/media/logo.svg": "/reactwebapp/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/reactwebapp/index.html",
+    "main.073c9b0a.css.map": "/reactwebapp/static/css/main.073c9b0a.css.map",
+    "main.b6d9552b.js.map": "/reactwebapp/static/js/main.b6d9552b.js.map",
+    "787.8630b93d.chunk.js.map": "/reactwebapp/static/js/787.8630b93d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.949086ad.js"
+    "static/js/main.b6d9552b.js"
   ]
 }
